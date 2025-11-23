@@ -16,7 +16,9 @@
     display: flex;
    }
 
-
+P{
+   color: rgb(255, 20, 40)
+}
 
 
   
@@ -43,6 +45,5 @@ body {
     display: flex;
     justify-content: center ;
    } 
-
 
 }
